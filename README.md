@@ -124,5 +124,3 @@ Enter any prompt such as:
 
 ### Test "No Results" Handling
 Enter a non-existent or gibberish prompt (e.g. `xyznonexistentquantumobject99999`) to observe the graceful fallback message.
-
-![App Screenshot](./frontend/src/assets/image2.png)
